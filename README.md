@@ -1,6 +1,6 @@
 # Olimps
 ## TIPS
-Switch branch branch:
+Switch branch:
 ```
 git checkout task_1
 git pull
