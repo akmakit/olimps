@@ -27,4 +27,4 @@ class TaskOneClass:
     output_file = open("output.out","w+")
     output_file.write(str(self.output_value))
     output_file.close()
-    print "File successfully created!"
+    print "File 'output.out' successfully created!"
