@@ -9,7 +9,7 @@ class TaskOne:
   def __init__(self):
     print "Class successfully initializated!"
 
-  # read input file and set input_value
+  # read input file and set input value
   def read_file(self):
     print "Opening file..."
     self.file         = open("input.in", "r")
