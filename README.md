@@ -5,7 +5,7 @@ Switch branch:
 git checkout task_1
 git pull
 ```
-Open "input.in" and fill in any integer value, and after:
+Open "input.in" and fill in with any integer value, and run command:
 
 ```python
 python task_1_main.py
