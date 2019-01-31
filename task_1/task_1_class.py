@@ -1,5 +1,5 @@
 # class definition
-class TaskOne:
+class TaskOneClass:
   # class variables
   file          = None
   input_value   = None

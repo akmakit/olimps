@@ -1,8 +1,8 @@
 # import class
-from task_1_class import TaskOne
+from task_1_class import TaskOneClass
 
 # initialize class
-task_one = TaskOne()
+task_one = TaskOneClass()
 
 # read file
 task_one.read_file()
