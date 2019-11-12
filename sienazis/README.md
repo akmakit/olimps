@@ -37,11 +37,8 @@ Initialize Sienazis class and call perform method
 Results
 ---
 
-Success
-In case input file is correct, results will be available in output file sienaz.out
-
-Error
-Otherwise runtime exception will be raised
+- In case input file is correct, results will be available in output file sienaz.out
+- Otherwise runtime exception will be raised
 
 
 Example
