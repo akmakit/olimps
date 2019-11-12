@@ -37,13 +37,13 @@ class Sienazis
   def validate_length
     return if @length.positive? && @length <= 30
 
-    raise 'N is not valid'
+    raise 'Caught the exception: N is not valid'
   end
 
   def validate_number_of_jumps
     return if @number_of_jumps.positive? && @number_of_jumps <= 5
 
-    raise 'K is not valid'
+    raise 'Caught the exception: K is not valid'
   end
 
   def validate_jump_lengths
@@ -51,7 +51,7 @@ class Sienazis
                   @jump_lengths.size != @number_of_jumps ||
                   @jump_lengths.select { |j| j > @length }.any?
 
-    raise 'L is not valid'
+    raise 'Caught the exception: L is not valid'
   end
 
   def calculate
