@@ -10,7 +10,7 @@ Open "input.in" and fill in with any integer value, and run command:
 ```python
 python task_1_main.py
 ```
-You should see output with input value multiplied by 2:
+You should see output with input value 1:
 ```
 Opening file...
 File opened!
