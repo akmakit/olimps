@@ -9,9 +9,18 @@ Available at:
 How it works
 ---
 
+Clone repozitory
+
+    git clone git@github.com:akmakit/olimps.git
+
 Go to project directory
 
     cd sienazis
+
+Take latest changes
+
+    git pull
+    git checkout sienazis
 
 Open irb
 
